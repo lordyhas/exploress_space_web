@@ -364,7 +364,7 @@
                 </div>
                 <div class="col-lg-6 col-md-6">
                     <div class="offer_text">
-                        <h2>Kodisha wishes you Merry Christmas and a Happy New Year</h2>
+                        <h2>KodishApp wishes you Merry Christmas and a Happy New Year</h2>
                         <div class="date_countdown">
                             <div id="timer">
                                 <div id="days" class="date"></div>
