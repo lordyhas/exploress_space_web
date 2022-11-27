@@ -157,7 +157,7 @@
                         <p>Exploress Space</p>
                         <h3><b>Explo</b>re Exp<b>ress</b> Service</h3>
                         <a href="#" class="feature_btn">EXPLORE NOW <i class="fas fa-play"></i></a>
-                        <img class="p-3 mr-5" height="300px"  src="img/ess-space.png" alt="">
+                        <img class="p-3 ml-5 mr-5" height="300px"  src="img/ess-space.png" alt="">
                     </div>
                 </div>
             </div>
