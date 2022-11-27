@@ -29,7 +29,7 @@ $router->get('/contact', 'contact.php');
 
 $router->get('/login', 'contact.php');
 
-$router->get('/login', 'contact.php');
+$router->get('/login', 'login.php');
 
 
 //$router->get('/testx', '/article_model.php');
