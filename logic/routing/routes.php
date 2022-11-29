@@ -27,7 +27,7 @@ $router->get('/contact', 'contact.php');
 //$router->get('/tracking', 'tracking.php');
 
 
-$router->get('/login', 'contact.php');
+//$router->get('/login', 'contact.php');
 
 $router->get('/login', 'login.php');
 

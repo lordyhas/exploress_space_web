@@ -40,13 +40,14 @@
                                         <!--a class="dropdown-item" href="elements.html">elements</a-->
                                     </div>
                                 </li>
-                                <li class="nav-item">
+                                <!--li class="nav-item">
                                     <a class="nav-link" href="/blog">Blog</a>
-                                    <!--div class="dropdown-menu" aria-labelledby="navbarDropdown_2">
+                                    
+                                </li-->
+                                <!--div class="dropdown-menu" aria-labelledby="navbarDropdown_2">
                                         <a class="dropdown-item" href="blog.html"> blog</a>
                                         <a class="dropdown-item" href="single-blog.html">Single blog</a>
                                     </div-->
-                                </li>
                                 
                                 <li class="nav-item">
                                     <a class="nav-link" href="/contact">Contact</a>
